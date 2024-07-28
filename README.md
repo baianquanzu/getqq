@@ -1,6 +1,6 @@
 使用说明：
 
-访问网站： [getqq.exe](E:\网络安全专用文件\go语言程序\getqq.exe) 
+访问网站：https://qun.qq.com/member.html
 
 选目标群，然后到下面这个页面
 ![image](https://github.com/user-attachments/assets/07c19deb-fd9e-4afa-b9d9-4f826a06eb7d)
